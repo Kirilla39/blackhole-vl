@@ -16,6 +16,11 @@ This repository provides:
 
 ## Branches
 
+> [!IMPORTANT]
+> The `manual` branch includes a **larger set of packages** compared to `main`.
+>  
+> Some packages are only available there due to size or build constraints.
+> If something is missing in `main`, you will likely find it in `manual`.
 This repository is split into branches with different guarantees:
 
 ### **[main](https://github.com/Event-Horizon-VL/blackhole-vl/tree/main)**
